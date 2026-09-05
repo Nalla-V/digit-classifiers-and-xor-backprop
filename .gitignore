@@ -1,0 +1,11 @@
+train_in.csv
+train_out.csv
+test_in.csv
+test_out.csv
+__pycache__
+*.pyc
+.ipynb_checkpoints
+venv
+.venv
+.DS_Store
+Thumbs.db
